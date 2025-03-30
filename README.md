@@ -7,7 +7,7 @@ This repository demonstrates how to use **Cucumber** with **JUnit** to write and
 - Example feature files and step definitions.
 - Maven-based project setup for easy configuration.
 
-## Prerequisites
+## Prerequisites 
 - Java 8 or higher installed.
 - Maven installed.
 - Git installed.
