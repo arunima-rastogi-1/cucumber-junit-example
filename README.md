@@ -1,4 +1,4 @@
- # Cucumber JUnit Example 
+# Cucumber JUnit Example 
 
 This repository demonstrates how to use **Cucumber** with **JUnit** to write and run behavior-driven development (BDD) tests in a Java project. The project uses **Maven** for dependency management and build automation.
  
