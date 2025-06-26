@@ -8,7 +8,7 @@ This repository demonstrates how to use **Cucumber** with **JUnit** to write and
 - Maven-based project setup for easy configuration. 
   
 ## Prerequisites 
-- Java 8 or higher installed.
+- Java 8 or higher installed. 
 - Maven installed.
 - Git installed. 
 
