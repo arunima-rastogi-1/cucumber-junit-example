@@ -13,7 +13,7 @@ This repository demonstrates how to use **Cucumber** with **JUnit** to write and
 - Git installed. 
 
 ## Getting Started
-1. Clone the repository:
+1. Clone the repository: 
    ```bash
    git clone https://github.com/arunima-rastogi-1/cucumber-junit-example.git
    cd cucumber-junit-example```
